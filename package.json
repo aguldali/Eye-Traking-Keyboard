@@ -1,0 +1,20 @@
+{
+  "name": "com.asger.eyetrackingkeyboard",
+  "version": "1.2.3",
+  "displayName": "ASGER Eye Tracking Keyboard",
+  "description": "MVP of digital keyboard used with eye tracking in Hololens 2",
+  "unity": "2019.4",
+  "unityRelease": "25f1",
+  "dependencies": {
+ 
+  },
+  "keywords": [
+    "eyetracking",
+    "MRTK",
+    "ASGER"
+  ],
+  "author": {
+    "name": "Ege Guldali",
+    "email": "aguldali@havelsan.com.tr"
+  }
+}
